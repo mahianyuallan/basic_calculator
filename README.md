@@ -6,8 +6,8 @@ This project allows users to perform basic arithmetic operations such as additio
 ---
 
 ## 📸 Screenshot
- 
-![Calculator Screenshot](basic-calculator.png)
+
+![Calculator Screenshot](https://github.com/mahianyuallan/basic_calculator/blob/master/basic-calculator.png?raw=true)
 
 
 ---
